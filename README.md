@@ -12,6 +12,7 @@ Day job: Oracle HCM implementation, integrations & system design (IBM & Deloitte
 - Open Source — MCP servers, agentic architecture frameworks, quantitative trading models, philosophy
 
 **My Stack**
+
 Python · TypeScript · MCP · Oracle AI Agent Studio · Claude Cowork/Code · Antigravity · Hermes · Git/GitHub · Linux (Arch, obviously) · Obsidian & Markdown
 
 I have no life. But it's architecturally sound.
